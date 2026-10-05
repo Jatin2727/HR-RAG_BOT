@@ -1,0 +1,6 @@
+flask
+werkzeug
+python-dotenv
+faiss-cpu
+google-genai
+numpy
